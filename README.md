@@ -15,7 +15,7 @@ This project is a simple clone of Spotify, the popular music streaming service. 
 - **JavaScript**: For interactive features and functionality.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/SPotify_Clone.git`
+1. Clone the repository: `git clone https://github.com/Surabhi888/SPotify_Clone.git`
 2. Open `index.html` in your preferred web browser.
 
 ### Usage
