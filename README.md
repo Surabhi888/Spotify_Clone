@@ -1,4 +1,4 @@
-**Spotify_Clone**
+### Spotify_Clone
 
 This project is a simple clone of Spotify, the popular music streaming service. It's built entirely with HTML, CSS, and JavaScript.
 
